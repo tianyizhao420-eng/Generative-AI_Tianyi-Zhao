@@ -4,7 +4,6 @@ This repository contains my work for the coding assistant onboarding assignment.
 
 ## Git Workflow
 
-I followed these basic Git steps:
 - Created a repository on GitHub and cloned it locally
 - Created and edited files in the project folder
 - Uploaded files through the GitHub web interface using "Upload files"
