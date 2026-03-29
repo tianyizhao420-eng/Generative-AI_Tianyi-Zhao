@@ -14,3 +14,7 @@ This repository contains my work for the coding assistant onboarding assignment.
 - Assistant draft: generated assistant_draft.md using Claude Code and added notes
 - Manual edits: created final_version.md and made personal revisions
 - Final update: updated README.md with workflow and summary
+
+## Video Link
+
+- https://youtu.be/BmUIDM_72gw?si=717VZQxBFyBLvmaA
