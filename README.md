@@ -11,7 +11,7 @@ I followed these basic Git steps:
 
 ## Commit Summary
 
-- Initial setup: created repository and added README.md, assistant_draft.md, and final_version.md
+- Initial setup: created repository
 - Assistant draft: generated assistant_draft.md using Claude Code and added notes
 - Manual edits: created final_version.md and made personal revisions
 - Final update: updated README.md with workflow and summary
